@@ -1,6 +1,5 @@
 {
   "name" : "kemet-flipcard",
-  "version" : "0.0.1",
   "description" : "A card that has a front and back and flip between the two sides.",
   "main" : "kemet-flipcard.html",
   "dependencies" : {

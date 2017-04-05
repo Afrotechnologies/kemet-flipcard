@@ -1,0 +1,8 @@
+{
+    "name" : "kemet-flipcard",
+    "version" : "0.0.1",
+    "main" : "kemet-flipcard.html",
+    "repository" : "https://github.com/afrotechnology/kemet-flipcard",
+    "author" : "Hasani Rogers <hasani.rogers@gmail.com>",
+    "license" : "MIT"
+}
